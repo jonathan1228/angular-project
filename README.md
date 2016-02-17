@@ -1,7 +1,7 @@
 # Angular JS Group Project
 
-Table of Content
-================
+### Table of Content
+====================
 * [Members](#members)
 * [App Description](#app-description)
 * [Log](#log)
@@ -9,8 +9,8 @@ Table of Content
   * [02-17-16](#02-17-16)
 * [](#)
 
-Members
-=======
+### Members
+===========
 [Eric Hodges](https://github.com/erichodges)
 [Jonathan Kim](https://github.com/jonathan1228)
 [Alex Nishioki](https://github.com/alexnishioki)
@@ -18,16 +18,16 @@ Members
 [Edward Tierra](https://github.com/Thatsedrich)
 
 
-App Description
-===============
+### App Description
+===================
 
-Log
-===
-
-
-#### 02-16-16
---------
+### Log
+=======
 
 
 #### 02-16-16
---------
+-------------
+
+
+#### 02-16-16
+-------------
