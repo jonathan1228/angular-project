@@ -34,7 +34,8 @@ This project will be heavily involving Angular JS, as well as the Twitter API an
 
 #### 02-17-16
 -------------
-> Create
+> Start to create the README.md, specifically the table of content. Still a work in progress.
 
 #### 02-18-16
 -------------
+> My team is missing. Where out thou?
