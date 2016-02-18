@@ -29,7 +29,12 @@ This project will be heavily involving Angular JS, as well as the Twitter API an
 
 #### 02-16-16
 -------------
+> Collaborated to create the idea of our app description, thus it begins.
+> Create the skeletal folder for the repository.
 
+#### 02-17-16
+-------------
+> Create
 
-#### 02-16-16
+#### 02-18-16
 -------------
