@@ -38,4 +38,10 @@ This project will be heavily involving Angular JS, as well as the Twitter API an
 
 #### 02-18-16
 -------------
-> My team is missing. Where out thou?
+> Create wireframes to see where buttons/images/ will be placed. Also, we talked as a group on how this entire app will not only look like, but also set down the functionalities of it.
+
+#### 02-19-16
+-------------
+> Add views folder, and the follow htmls: about.html, home.html, signin.html, signup.html
+> Create a twitter account for this app.
+> Create app.js and controllers.js and added functionalities in it. Also, we're calling the app "Politrap".
