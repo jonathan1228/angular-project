@@ -1,4 +1,4 @@
-var app = angular.module('PolitrapApp', []);
+var app = angular.module('PolitrapApp', ['ngRoute']);
 app.config(function($routeProvider){
     $routeProvider.when('/', {
         templateUrl: "./views/home.html",
