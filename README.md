@@ -24,9 +24,9 @@
 
 ### Wire-Frames
 ===============
-* [/about](./public/images/about-html.png)
-* [/home](./public/images/home-html.png)
-* [/signin](./public/images/signin-signup-html.png)
+![Alt text](./public/images/home-html.png "Landing Page")
+![Alt text](./public/images/signin-signup-html.png "SIgnin & Signup Page")
+![Alt text](./public/images/about-html.png "About Page")
 
 ### Log
 =======
