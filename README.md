@@ -30,7 +30,6 @@
 
 ### Log
 =======
-
 #### 02-16-16
 -------------
 > Collaborated to create the idea of our app description, thus it begins.
